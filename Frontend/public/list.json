@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+         "name":"Rich Dad and Poor Dad",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Free",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+
+    },
+    {
+        "id":2,
+         "name":"Sports Book",
+         "title":"  what the rich teach their kids about money",
+         "price":10,
+         "category":"sports",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+
+    },
+    {
+        "id":3,
+         "name":"Funny Book",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Funny",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+
+    },
+    {
+        "id":4,
+         "name":"Music Book",
+         "title":"what the rich teach their kids about money",
+         "price":0,
+         "category":"Song",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+    },
+    {
+        "id":5,
+         "name":"Rich Dad and Poor Dad",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Free",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+
+    },
+    {
+        "id":6,
+         "name":"Rich Dad and Poor Dad",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Free",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+
+    },
+    {
+        "id":7,
+         "name":"Rich Dad and Poor Dad",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Free",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+    },
+    {
+        "id":8,
+         "name":"Rich Dad and Poor Dad",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Free",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+    },
+    {
+        "id":9,
+         "name":"Rich Dad and Poor Dad",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Free",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+
+    },
+    {
+        "id":10,
+         "name":"Rich Dad and Poor Dad",
+         "title":"  what the rich teach their kids about money",
+         "price":0,
+         "category":"Free",
+         "image":"https://assets-global.website-files.com/5ee67a4ca605db1097d0d827/612b5cf9e84a8fb37e685919_Rich-Dad-Poor-Dad-1000x1000.jpg"
+
+    }
+]
